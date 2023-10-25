@@ -85,7 +85,6 @@ POST http://localhost:8080/api/pedidos
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1IiwiaWF0IjoxNjk4MTA3ODkwLCJleHAiOjE2OTgxOTQyOTB9.q26MJRxWE5gCrI5ORVjdlMo84xVXUjBedTx7P-sfrAk
 
-
 {
     "codPedido": "000001",
     "obs": "observacao",

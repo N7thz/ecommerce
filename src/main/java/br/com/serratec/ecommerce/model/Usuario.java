@@ -29,7 +29,6 @@ public class Usuario implements UserDetails {
     // #region propriedades
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-
     @Column(name = "usuario_id")
     private long usuarioId;
 
